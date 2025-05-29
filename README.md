@@ -1,6 +1,6 @@
-#Task 3
+# Task 3
 
-##This is the third task assigned to me as a part of my DevOps internship
+## This is the third task assigned to me as a part of my DevOps internship
 
 In this task I have to create a Git repository and push it to github
 
